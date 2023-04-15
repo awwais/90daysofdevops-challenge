@@ -1,6 +1,8 @@
-#90 Days of DevOps Challenge
+# 90DaysofDevOpsChallenge
+
 Welcome to my 90-day DevOps challenge! In this repository, you will find my progress, learnings, and resources as I embark on a journey to learn essential DevOps practices and tools.
-#What is DevOps?
+
+# What is DevOps?
 DevOps is a software development approach that combines development (Dev) and operations (Ops) teams to streamline software delivery and improve collaboration and communication. DevOps practices include continuous integration, delivery, and deployment, as well as automation, version control, and monitoring.
 #Why the 90-day challenge?
 I believe in the power of learning in public and making progress every day. By committing to a 90-day challenge, I aim to develop a habit of consistent learning and growth and challenge myself to learn new skills and technologies.
