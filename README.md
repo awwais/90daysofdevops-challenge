@@ -1,4 +1,4 @@
-# 90DaysofDevOpsChallenge
+# 90 Days of DevOps Challenge
 
 Welcome to my 90-day DevOps challenge! In this repository, you will find my progress, learnings, and resources as I embark on a journey to learn essential DevOps practices and tools.
 
